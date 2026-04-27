@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:48cae4&height=200&section=header&text=Daniel%20Ramazani&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&fontColor=caf0f8" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=800&duration=2500&color=00b4d8&center=true&vCenter=true&width=600&height=50&lines=Greetings+to+every+traveler+here" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=32&pause=800&duration=2500&color=00b4d8&center=true&vCenter=true&width=600&height=50&lines=Greetings+to+every+traveler+here" alt="Typing SVG" />
   </a>
 </p>
 
