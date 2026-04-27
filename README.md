@@ -8,19 +8,8 @@
   </a>
 </p>
 
----
 
-### 💫 À propos de moi
-<img align="right" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gopher.gif" width="150">
-
-- 🌌 **Identité :** Daniel Ramazani, alias *Kuroyukihime*.
-- 🎓 **Focus :** Ingénierie logicielle & Expériences Web immersives.
-- 🍱 **Passions :** Code, Anime, et explorer de nouvelles technos.
-- 🌐 **Portfolio :** [danielramazani.pages.dev](https://danielramazani.pages.dev)
-
----
-
-### 🛠️ Arsenal Technologique
+### Technos
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,postgresql,docker,figma,git" />
@@ -29,7 +18,7 @@
 
 ---
 
-### 📊 Statistiques & Activités (Temps Réel)
+### Activités
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUROYUKIHIME333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUROYUKIHIME333&layout=compact&theme=tokyonight&langs_count=6" />
@@ -40,8 +29,6 @@
 </p>
 
 ---
-
-### 👾 Le coin des mascottes
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ254Z254Z254Z254Z254Z254Z254Z254Z25/3o7TKMGpxN8XUuUo0w/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ254Z254Z254Z254Z254Z254Z254Z254Z25/uS071hlk6FcrS/giphy.gif" width="80">
