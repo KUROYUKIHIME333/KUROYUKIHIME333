@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Otaku+by+Nature;Tech+Enthusiast;Fullstack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developper;Otaku+by+Nature;Tech+Enthusiast;Industrial+Maintenance+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 ### Technos
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,postgresql,docker,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,svelte,nextjs,nodejs,tailwind,firebase,supabase,postgresql,git,figma,arduino" />
   </a>
 </p>
 
