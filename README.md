@@ -55,10 +55,6 @@ GitHub Analytics
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUROYUKIHIME333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=48cae4&point=90e0ef" width="100%" alt="Contribution Graph" />
 </p>
 
-🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUROYUKIHIME333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
