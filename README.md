@@ -47,6 +47,14 @@ Technos
 </p>
 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUROYUKIHIME333&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=48cae4&fire=90e0ef&currStreakNum=caf0f8&sideNums=caf0f8&currStreakLabel=00b4d8&sideLabels=48cae4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUROYUKIHIME333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=48cae4&point=90e0ef" width="100%" alt="Contribution Graph" />
+</p>
+
 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KUROYUKIHIME333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
