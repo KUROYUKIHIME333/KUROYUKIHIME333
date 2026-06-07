@@ -36,6 +36,7 @@
 
 Technos
 <p align="center">
+  <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,svelte,nextjs,nodejs,tailwind,firebase,supabase,postgresql,git,figma,arduino" />
 </p>
 <p align="center">
@@ -45,6 +46,8 @@ Technos
   <img src="https://img.shields.io/badge/IoT-Arduino%20%7C%20Embedded-90e0ef?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Tailwind-caf0f8?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+</p>
+
 GitHub Analytics
 
 <p align="center">
