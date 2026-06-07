@@ -47,17 +47,13 @@ Techos
 </p>
 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KUROYUKIHIME333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=48cae4&text_color=caf0f8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUROYUKIHIME333&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KUROYUKIHIME333&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=48cae4&fire=90e0ef&currStreakNum=caf0f8&sideNums=caf0f8&currStreakLabel=00b4d8&sideLabels=48cae4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUROYUKIHIME333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=48cae4&point=90e0ef" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUROYUKIHIME333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=48cae4&point=90e0ef" width="100%" alt="Contribution Graph" />
 </p>
+
 
 🏆 Achievements
 <p align="center">
